@@ -65,3 +65,6 @@ Add your dashboard screenshot here.
 B.Sc. Information Technology Graduate
 Interested in Data Analytics, Power BI, SQL, Excel and Python.
 
+## 📷 Dashboard Preview
+
+![Sales Analytics Dashboard](Sales Dashboard.png)
