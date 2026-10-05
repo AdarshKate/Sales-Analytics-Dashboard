@@ -67,4 +67,4 @@ Interested in Data Analytics, Power BI, SQL, Excel and Python.
 
 ## 📷 Dashboard Preview
 
-![Sales Analytics Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales Dashboard.png)
